@@ -19,7 +19,7 @@
 - ✅ [React] componente usando props
 - ✅ [React] componente com eventos
 
-- [React] componente com estado
+- ✅ [React] componente com estado
 - [React] comunicação entre componentes (direita)
 - [React] comunicação entre componentes (indireta)
 - [React] rederização condicional
